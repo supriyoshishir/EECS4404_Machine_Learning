@@ -21,5 +21,5 @@ This assignment will be done using the FaceScrub dataset. We will be using a tin
 this, with 6 celebrities and cropped images of 32-by-32. The target labels are the actor/actress
 name, encoded as integers, as well as the gender, encoded as ’0’ and ’1’. 
 The name (ID) of the actors: `Lorraine Bracco', `Gerard Butler', `Peri Gilpin', `Angie Har-mon', 
-`Daniel Radclie', and `Michael Vartan' are encoded as `0', `1', `2', `3', `4', and `5', respectively.
+`Daniel Radclife', and `Michael Vartan' are encoded as `0', `1', `2', `3', `4', and `5', respectively.
 The gender of the actors: `Male' and `Female' are encoded as `0' and `1', respectively.
